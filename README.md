@@ -13,7 +13,7 @@ Construído com **Next.js 13+** (App Router), **React** e **CSS Modules** para u
 
 Você pode visualizar o projeto em funcionamento no seguinte link:
 
-### ➡️ [**Visitar o Portfólio**](https://seu-portfolio-incrivel.vercel.app/)
+### ➡️ [**Visitar o Portfólio**](https://lucas-ribeiro.vercel.app/)
 
 ---
 
